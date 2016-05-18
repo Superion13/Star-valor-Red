@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7197fb4afa902a49980ea32dfd7218a
+timeCreated: 1463373624
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 187194, guid: 30ad32e421ef04b4984f2dc85461294d, type: 2}
+  - playerLocation: {instanceID: 0}
+  - owlBulletSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
